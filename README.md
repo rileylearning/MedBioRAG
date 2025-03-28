@@ -4,7 +4,7 @@
 
 MedBioRAG is a **state-of-the-art system combining Semantic Search, Retrieval-Augmented Generation (RAG), and Fine-tuning** to enhance Large Language Model (LLM) performance in **biomedical question answering (QA)**.
 
-📄 **This codebase supports the experiments in the paper**: [MedBioRAG: Semantic Search and Retrieval-Augmented Generation with Large Language Models for Medical and Biological QA](https://drive.google.com/drive/folders/1SrCwIHqEXudeC_T6IgpLyjzUjc9NNSOS?usp=sharing)
+📄 **This codebase supports the experiments in the paper**: [MedBioRAG: Semantic Search and Retrieval-Augmented Generation with Large Language Models for Medical and Biological QA](https://drive.google.com/file/d/1hm5hDRhJPmFjEBj_n9OUlWkQXoiEk2bH/view?usp=sharing)
 
 ---
 
